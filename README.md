@@ -1,4 +1,3 @@
 # tranfer-learning_pytorch
 
-This is transfer learning exersise with pretrained resnet, changing classifier.
-it was trained with Hymenopera dataset and remarked with korean.
+파이토치를 이용한 전이학습 예제입니다
